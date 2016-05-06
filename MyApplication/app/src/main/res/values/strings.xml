@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">כלנית</string>
+    <string name="action_settings">Settings</string>
+    <string name="one">כלנית</string>
+    <string name="two">two</string>
+    <string name="three">צבעיה</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+
+</resources>
